@@ -1,0 +1,12 @@
+- 알고리즘 
+- 자료구조 
+- 스택(stack)
+- 큐(Queue)
+- 그래프(Graph)
+- 노드 (Node)
+- 간선(Edge)
+- BFS
+- DFS
+- 재귀 (Recursion)
+- 방문 (visited)
+- LIFO / FIFO
