@@ -46,6 +46,6 @@ def bfs_friends(g, start):
                 done.add(x)
     return order
 
-print("=== 비교: Summer에서 시작 ===")
-print("BFS:", bfs_friends(fr_info, 'Summer'))
-print("DFS:", dfs_friends(fr_info, 'Summer'))
+print("=== 비교: May에서 시작 ===")
+print("BFS:", bfs_friends(fr_info, 'May'))
+print("DFS:", dfs_friends(fr_info, 'May'))
